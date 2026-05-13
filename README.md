@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Phone Verification
 
 A full-stack phone number verification app with SMS OTP (Twilio) + demo mode. Backend is Node.js/Express/MongoDB, frontend is React 18 + Vite.
@@ -202,3 +203,6 @@ aws ssm put-parameter --name /phone-verify/TWILIO_ACCOUNT_SID --value "..." --ty
 aws ssm put-parameter --name /phone-verify/TWILIO_AUTH_TOKEN --value "..." --type SecureString
 aws ssm put-parameter --name /phone-verify/TWILIO_PHONE_NUMBER --value "..." --type SecureString
 ```
+=======
+# phone-verify
+>>>>>>> 5f88b58425c6361c7819db4a144129b82e95a6b8
